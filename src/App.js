@@ -27,8 +27,7 @@ import Planning from './pages/Home/Features/Planning';
 import Analysis from './pages/Home/Features/Analysis';
 import Strategy from './pages/Home/Features/Strategy';
 import ManageReviews from './pages/Dashboard/Review/ManageReviews';
-import Signup from './pages/Account/Signup';
-
+import SignUp from './pages/Account/SignUp';
 
 const App = () => {
     // const ref = useRef()
@@ -57,7 +56,7 @@ const App = () => {
                     <Route path='/contact' element={<Contact />}></Route>
                     <Route path='/portfolio' element={<MyPortfolio />}></Route>
                     <Route path='/login' element={<Login />}></Route>
-                    <Route path='/signup' element={<Signup />}></Route>
+                    <Route path='/signup' element={<SignUp />}></Route>
 
                     {/* dashboard start */}
 

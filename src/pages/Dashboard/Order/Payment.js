@@ -7,7 +7,7 @@ import Loading from '../../../components/Loading';
 import PageTitle from '../../../components/PageTitle';
 import CheckOutForm from './CheckOutForm';
 
-const stripePromise = loadStripe('pk_test_51L14pjDEsxnXfJbTiZgmC0dz3uHctqNriljNuVFrVk6oTpM7wsc9tHAymdCZlelQzHvDWCKD1yfU0LY6Ccm13tpi00ExQ2fXbe')
+const stripePromise = loadStripe('pk_test_51L1DprCocrPsKOt6bqlHnY9u0bzi6gwBs362ufNt42p8bKYYCI9YVE5nVPhJDUqCa54bCL0v0JV9emQcreUyIm2c00glvakKz8')
 
 const Payment = () => {
     const { orderId } = useParams();

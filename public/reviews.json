@@ -1,6 +1,5 @@
 [
     {
-        "id": "3101" ,
         "img": "https://i.ibb.co/YDwQqs3/1.jpg" ,
         "name": "Hilal A. Jamal" ,
         "title": "A company you can enjoy" ,
@@ -9,7 +8,6 @@
         "rating": 4.5
     },
     {
-        "id": "3102" ,
         "img": "https://i.ibb.co/grZW86D/2.jpg" ,
         "name": "Sj Rion Talukder" ,
         "title": "Amwerk rocks!" ,
@@ -18,7 +16,6 @@
         "rating": 5
     },
     {
-        "id": "3103" ,
         "img": "https://i.ibb.co/smhjpyT/3.jpg" ,
         "name": "Al JIhad" ,
         "title": "Great explorer of the truth" ,
@@ -27,7 +24,6 @@
         "rating": 4
     },
     {
-        "id": "3104" ,
         "img": "https://i.ibb.co/cT4dM6w/4.jpg" ,
         "name": "Mehedi Hasan" ,
         "title": "Building trust takes" ,
@@ -36,7 +32,6 @@
         "rating": 5
     },
     {
-        "id": "3105" ,
         "img": "https://i.ibb.co/CvMH9gG/5.jpg" ,
         "name": "Rifat Rasel" ,
         "title": "A leap of faith" ,
@@ -45,7 +40,6 @@
         "rating": 4.5
     },
     {
-        "id": "3106" ,
         "img": "https://i.ibb.co/4KNK3p2/6.jpg" ,
         "name": "Mohammad Muiz" ,
         "title": "culture of collaboration " ,
